@@ -1,0 +1,2 @@
+﻿  StaffManager_UsingPolymorphismAndFileManager.cpp
+D:\Học\Code\OOP\StaffManager_UsingPolymorphismAndFileManager\StaffManager_UsingPolymorphismAndFileManager\StaffManager_UsingPolymorphismAndFileManager.cpp(309): error C4700: uninitialized local variable 'n' used
